@@ -1,5 +1,5 @@
   <h2> Introduction </h2>
-    <p>Hi there 👋 I'm Giandomenico and I'm graduated in Computer Science at University of Messina.<p>
+    <p>Hello! 👋 I'm Giandomenico and I'm graduated in Computer Science at University of Messina.<p>
 
   <h2> Social </h2>
     <a href="https://www.linkedin.com/in/giovanni-domenico-tripodi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
