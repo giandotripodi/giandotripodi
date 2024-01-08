@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=for-the-badge&logo=Apache Cassandra&logoColor=white">
   <h2> Frameworks </h2>
+    <img src="https://img.shields.io/badge/Springboot-white?style=for-the-badge&logo=springboot">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
