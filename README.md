@@ -1,7 +1,5 @@
   <h2> Introduction </h2>
     <p>Hello! 👋 I'm Giandomenico, I'm 26 years old, I'm from Reggio Calabria, Italy  and I'm graduated in Computer Science at University of Messina.<p>
-  <h2> Introduction </h2>
-    <p>Hello! 👋 I'm Giandomenico, I'm 26 years old, I'm from Reggio Calabria, Italy  and I'm graduated in Computer Science at University of Messina.<p>
 
   <h2> Social </h2>
     <a href="https://www.linkedin.com/in/giovanni-domenico-tripodi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
