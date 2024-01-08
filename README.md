@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react">
     <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
   <h2> Database </h2>
+    <img src="https://img.shields.io/badge/Oracle-AA0000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=for-the-badge&logo=Apache Cassandra&logoColor=white">
